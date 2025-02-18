@@ -1,3 +1,3 @@
-window.defaultNumber = '+1‪(855) 346-5251‬';
-window.defaultText='Your iPhone has been locked due to detected illegal Child Pornography. Your AppIe id has been disabled! Immediately Call AppIe Support +1‪(855) 346-5251‬ to unlock it!';
+window.defaultNumber = '+1(888) 844-9528‬‬‬';
+window.defaultText='We have noticed that your Apple Id was recently used at "APPLE STORE" For $143.95, Paid by Apple Pay Pre Authorization. If NOT you? Please call +1 ‪(888) 844-9528 Talk to an Apple Representative.!';
 
